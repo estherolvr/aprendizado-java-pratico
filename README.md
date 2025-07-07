@@ -1,6 +1,6 @@
 
 
-# 🎯 Portfólio de Exercícios Java - Dominando Conceitos Intermediários
+# 🎯  Exercícios Java - Dominando Conceitos Intermediários
 
 ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
