@@ -1,6 +1,4 @@
-# aprendizado-java-pratico
 
-# aprendizado-java-pratico
 
 # 🎯 Portfólio de Exercícios Java - Dominando Conceitos Intermediários
 
